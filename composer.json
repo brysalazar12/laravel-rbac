@@ -1,5 +1,5 @@
 {
-    "name": "aliukevicius/laravel-rbac",
+    "name": "brysalazar12/laravel-rbac",
     "description": "Laravel 5 role based access control",
     "keywords": [
         "aliukevicius",
@@ -9,7 +9,7 @@
         "permissions",
         "security"
     ],
-    "homepage": "https://github.com/aliukevicius/laravel-rbac",
+    "homepage": "https://github.com/brysalazar12/laravel-rbac",
     "license": "MIT",
     "authors": [
         {
