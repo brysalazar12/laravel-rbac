@@ -1,7 +1,8 @@
 <?php namespace Aliukevicius\LaravelRbac\Console\Commands;
 
 use Illuminate\Console\Command;
-use Illuminate\Foundation\Composer;
+//use Illuminate\Foundation\Composer;
+use Illuminate\Support\Composer;
 use Illuminate\Filesystem\Filesystem;
 
 class CreateMigrationsCommand extends  Command {
