@@ -1,6 +1,6 @@
 # Role based access control for Laravel 5.
 
-[![Laravel](https://img.shields.io/badge/Laravel-5.0.*|5.1.*-orange.svg)](http://laravel.com)
+[![Laravel](https://img.shields.io/badge/Laravel-5.2.*-orange.svg)](http://laravel.com)
 [![Packagist](https://img.shields.io/packagist/v/aliukevicius/laravel-rbac.svg)](https://packagist.org/packages/aliukevicius/laravel-rbac)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://tldrlegal.com/license/mit-license)
 [![Packagist](http://img.shields.io/packagist/dt/aliukevicius/laravel-rbac.svg)](https://packagist.org/packages/aliukevicius/laravel-rbac)
